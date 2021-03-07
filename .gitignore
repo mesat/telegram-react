@@ -2,3 +2,8 @@
 .idea
 build
 node_modules
+.env
+.vscode/
+yarn.lock
+.env
+package-lock.json
